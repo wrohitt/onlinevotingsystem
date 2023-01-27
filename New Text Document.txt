@@ -1,0 +1,28 @@
+Online Voting System
+
+Online voting system is a web application which is developed to conduct election process through internet in online mode.
+This application is mainly made in PHP and MySQL.
+And it is divided into two modules
+i) Voter module ii) Group Module
+
+Steps:----------
+
+i) Voter module:- a. Voter registration
+		  b. Voter login
+		  c. Voter dashboard(voter can see his/her profile info, voting info and list of groups)
+		  d. Voting(acc. to their choice)
+		  e. Logout
+
+ii) Group module:- a. Group registration
+		   b. Group login
+		   c. Dashboard(voter can see its profile info, voting info and list of groups)
+		   d. Voting
+		   e. Logout
+
+Technologies used:- HTML, CSS, PHP, MySQL.
+
+Applications used:- i)Code editor - Notepad/ VS Code
+
+Browser- Microsoft Edge/Google Chrome
+
+XAMPP control panel for Localhost server	
